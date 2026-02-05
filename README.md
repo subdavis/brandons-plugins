@@ -4,7 +4,7 @@
 
 ```bash
 # From GitHub
-/plugin marketplace add github.com/subdavis/brandons-plugins
+/plugin marketplace add subdavis/brandons-plugins
 
 # From local path
 /plugin marketplace add ./brandons-plugins
