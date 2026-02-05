@@ -1,0 +1,14 @@
+{
+  "name": "brandons-plugins",
+  "owner": { "name": "Brandon Davis" },
+  "metadata": {
+    "description": "SonarQube code scanning for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "verify-sonar",
+      "source": "./verify-sonar",
+      "description": "Scan code for issues using SonarQube for IDE"
+    }
+  ]
+}

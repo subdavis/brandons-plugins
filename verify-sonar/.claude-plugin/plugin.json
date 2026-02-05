@@ -1,0 +1,6 @@
+{
+  "name": "verify-sonar",
+  "description": "Scan code for quality and security issues using SonarQube for IDE",
+  "version": "1.0.0",
+  "author": { "name": "Brandon Davis" }
+}
